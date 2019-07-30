@@ -1,3 +1,4 @@
+/* get angle from two encoders*/
 #include "mbed.h"
 #include "QEncoder.h"
 QEncoder encoA(D2,D3);
